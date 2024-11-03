@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/brunagoncalves/blog-preview-card)
-- Live Site URL: [brunagoncalves.me](https://brunagoncalves.me/blog-preview-card)
+- Live Site URL: [brunagoncalves.me](https://brunagoncalves.github.io/blog-preview-card/)
 
 ## My process
 
